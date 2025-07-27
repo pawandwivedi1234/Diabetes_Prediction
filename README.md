@@ -93,7 +93,6 @@ Scikit-learn
 
 Kaggle - Pima Indians Diabetes Dataset
 
-Contact
 Author: Pawan Dwivedi
 📧 Email: dwivedipawan1981@gmail.com
 🔗 GitHub:https://github.com/pawandwivedi1234
