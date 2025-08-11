@@ -5,7 +5,7 @@ Below is a comprehensive GitHub project description for a Diabetes Prediction pr
 
 This project aims to predict whether a patient has diabetes using various diagnostic measurements. The model is trained on the well-known **Pima Indians Diabetes Dataset** and explores different machine learning algorithms for classification.
 
----
+----
 
 ## 📌 Table of Contents
 
